@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/t"
+        android:title="1번마"></item>
+    <item
+        android:id="@+id/tt"
+        android:title="2번마"></item>
+    <item
+        android:id="@+id/ttt"
+        android:title="3번마"></item>
+</menu>
